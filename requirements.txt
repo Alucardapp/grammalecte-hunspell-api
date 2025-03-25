@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+grammalecte
+cyhunspell
+python-multipart
